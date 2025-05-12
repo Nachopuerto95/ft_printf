@@ -33,9 +33,6 @@ int ft_printf(char const *s, ...);
 
 ![B030DA8C-43A1-48E6-A658-AE30472548C0](https://user-images.githubusercontent.com/66915274/198844199-3761987c-df3d-4c3d-90d1-e9f30583b83a.jpeg)
 
-<b>Output: </b>
-
-<img width="538" alt="Screen Shot 2022-10-29 at 6 54 40 PM" src="https://user-images.githubusercontent.com/66915274/198843655-23c772e4-1465-458b-9642-019bc62456dc.png">
 
 ## Funciones autorizadas 
 
