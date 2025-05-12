@@ -12,6 +12,19 @@
 
 <img src="https://github.com/Nachopuerto95/multilang/blob/main/42-Madrid%20-%20Edited.jpg">
 
+## 📜 About project
+
+> For this project, we will replicate the functionality of the original printf function.
+
+	🚀 This project is an introduction to using variadic functions and the <stdarg.h> library.
+
+> [!NOTE]  
+> Because of 42 School norm requirements:
+> * Each function can't have more than 25 lines of code.
+> * All variables must be declared and aligned at the top of each function.
+> * Project should be created just with allowed functions.
+<br>
+
 
 ## Description 
 
