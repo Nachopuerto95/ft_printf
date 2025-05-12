@@ -12,7 +12,7 @@
 
 <img src="https://github.com/Nachopuerto95/multilang/blob/main/42-Madrid%20-%20Edited.jpg">
 
-## 📜 Sobre el proyecto
+## 📜 Acerca del proyecto
 
 > Para este proyecto replicaremos el funcionamiento de la función original de printf
 
